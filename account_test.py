@@ -26,3 +26,4 @@ for currency in res.json():
     for key in currency.keys():
         print(key," : ",currency[key])
     print()
+#깃허브 실험
