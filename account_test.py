@@ -26,3 +26,4 @@ for currency in res.json():
     for key in currency.keys():
         print(key," : ",currency[key])
     print()
+# 풀 리퀘스트 시험
